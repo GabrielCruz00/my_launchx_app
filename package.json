@@ -4,6 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "test": "node ./node_modules/jest/bin/jest.js"
   },
   "author": "GabrielCruz00",
